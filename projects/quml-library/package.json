@@ -15,7 +15,7 @@
     "katex": "^0.11.1",
     "ngx-bootstrap": "^7.1.0",
     "lodash-es": "^4.17.21",
-    "@project-sunbird/client-services": "4.9.1"
+    "@project-sunbird/client-services": "6.0.1"
   },
   "dependencies": {
     "@project-sunbird/sunbird-player-sdk-v9": "5.1.0"
